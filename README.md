@@ -1,6 +1,6 @@
 ## Veterans who code
 
-Are you a veteran? Do you want to learn how to code? I've made this repo to help you learn. Feel free to reach out to me on [twitter](https://twitter.com/stephenprintup) with any questions. Feel like contributing? Submit a pull request. 
+Are you a veteran? Do you want to learn how to code? I've made this repo to help you learn. Feel free to reach out to me on [twitter](https://twitter.com/stephenprintup) with any questions. Feel like contributing? Submit a [pull request](https://help.github.com/articles/using-pull-requests/). 
 
 ### Basic Training
 * [treehouse](https://teamtreehouse.com/home) will get you through the basics
