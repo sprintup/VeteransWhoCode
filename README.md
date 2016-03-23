@@ -9,6 +9,7 @@ Are you a veteran? Do you want to learn how to code? I've made this repo to help
 * [code wars](https://www.codewars.com/users/sign_in)
 * [practice typing](https://typing.io/)
 * [compilers](Compilers)
+* [javascript coursework](http://portlandcodeschool.github.io/jse/)
 
 ### AIT
 * [learnyounode](https://github.com/workshopper/learnyounode)
