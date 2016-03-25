@@ -27,6 +27,7 @@ Are you a veteran? Do you want to learn how to code? I've made this repo to help
 * [ironnode](https://github.com/s-a/iron-node)
 * [johnpapa angular styleguide](https://github.com/johnpapa/angular-styleguide)
 * [raspberry pi projects](http://www.instructables.com/id/Raspberry-Pi-Projects/)
+* [Amazon Web Services](http://aws.amazon.com/education/awseducate/)
 
 
 ## AO
