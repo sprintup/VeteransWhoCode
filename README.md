@@ -4,7 +4,7 @@ Are you a veteran? Do you want to learn how to code? I've made this repo to help
 
 ### Basic Training
 * [scratch](https://scratch.mit.edu/)
-* [treehouse](https://teamtreehouse.com/home) will get you through the basics
+* [Treehouse](https://teamtreehouse.com/home) will get you through the basics
 * [easy intro to git](https://try.github.io/levels/1/challenges/1)
 * [practice typing](https://typing.io/)
 * [compilers](https://www.youtube.com/watch?v=CSZLNYF4Klo&index=2&list=PLhQjrBD2T381NKQHUCTezeyCYzbnN4GjC)
@@ -14,6 +14,7 @@ Are you a veteran? Do you want to learn how to code? I've made this repo to help
 ### AIT
 * [HarvardX Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info) or [this](http://cs50.tv/2015/fall/)
 * [learnyounode](https://github.com/workshopper/learnyounode)
+* [databases](https://www.lynda.com/Access-tutorials/Foundations-Programming-Databases/412845-2.html)
 * [code wars](https://www.codewars.com/users/sign_in)
 * [javscript event loop](https://vimeo.com/96425312?ref=tw-share)
 * [design patterns](https://sourcemaking.com/design_patterns)
