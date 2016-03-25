@@ -12,22 +12,22 @@ Are you a veteran? Do you want to learn how to code? I've made this repo to help
 * [javascript coursework](http://portlandcodeschool.github.io/jse/curriculum/)
 
 ### AIT
+* [HarvardX Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info) or [this](http://cs50.tv/2015/fall/)
 * [learnyounode](https://github.com/workshopper/learnyounode)
 * [code wars](https://www.codewars.com/users/sign_in)
-* [HarvardX Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info) or [this](http://cs50.tv/2015/fall/)
 * [javscript event loop](https://vimeo.com/96425312?ref=tw-share)
 * [design patterns](https://sourcemaking.com/design_patterns)
 * [tdd techniques](https://en.wikipedia.org/wiki/Test-driven_development)
-* automated testing with [selenium web driver](http://www.seleniumhq.org/) with bdd software like [cucumber](https://cucumber.io/)
+* [postman rest tool](https://www.getpostman.com/)
+* [ironnode debugger](https://github.com/s-a/iron-node)
 
 ### Ranger School
-* [bundling using tools like webpack](http://webpack.github.io/docs/tutorials/getting-started/)
-* [how browsers work](https://vimeo.com/44182484?ref=tw-share)
-* [postman](https://www.getpostman.com/)
-* [ironnode](https://github.com/s-a/iron-node)
-* [johnpapa angular styleguide](https://github.com/johnpapa/angular-styleguide)
-* [raspberry pi projects](http://www.instructables.com/id/Raspberry-Pi-Projects/)
 * [Amazon Web Services](http://aws.amazon.com/education/awseducate/)
+* [raspberry pi projects](http://www.instructables.com/id/Raspberry-Pi-Projects/)
+* [how browsers work](https://vimeo.com/44182484?ref=tw-share)
+* [automated testing with selenium web driver](http://www.seleniumhq.org/) with bdd software like [cucumber](https://cucumber.io/)
+* [bundling using tools like webpack](http://webpack.github.io/docs/tutorials/getting-started/)
+* [johnpapa angular styleguide](https://github.com/johnpapa/angular-styleguide)
 
 
 ## AO
