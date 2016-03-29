@@ -4,7 +4,7 @@ Are you a veteran? Do you want to learn how to code? I've made this repo to help
 
 ### Basic Training
 * [scratch](https://scratch.mit.edu/)
-* [Treehouse](https://teamtreehouse.com/home) will get you through the basics
+* [Treehouse](https://teamtreehouse.com/home) will get you through the basics. 10,000 points is sufficient. 
 * [easy intro to git](https://try.github.io/levels/1/challenges/1)
 * [practice typing](https://typing.io/)
 * [compilers](https://www.youtube.com/watch?v=CSZLNYF4Klo&index=2&list=PLhQjrBD2T381NKQHUCTezeyCYzbnN4GjC)
@@ -23,7 +23,7 @@ Are you a veteran? Do you want to learn how to code? I've made this repo to help
 * [ironnode debugger](https://github.com/s-a/iron-node)
 
 ### Ranger School
-* [Amazon Web Services](http://aws.amazon.com/education/awseducate/)
+* [Amazon Web Services](http://aws.amazon.com/education/awseducate/) [video](https://www.youtube.com/watch?v=VgzzHCukwpc&feature=youtu.be)
 * [raspberry pi projects](http://www.instructables.com/id/Raspberry-Pi-Projects/)
 * [how browsers work](https://vimeo.com/44182484?ref=tw-share)
 * [automated testing with selenium web driver](http://www.seleniumhq.org/) with bdd software like [cucumber](https://cucumber.io/)
