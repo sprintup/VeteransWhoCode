@@ -23,8 +23,9 @@ Are you a veteran? Do you want to learn how to code? I've made this repo to help
 * [ironnode debugger](https://github.com/s-a/iron-node)
 
 ### Ranger School
-* [Amazon Web Services](http://aws.amazon.com/education/awseducate/) [video](https://www.youtube.com/watch?v=VgzzHCukwpc&feature=youtu.be)
+* [Amazon Web Services](http://aws.amazon.com/education/awseducate/) takes the hassle out of online enterprise. Watch this [video](https://www.youtube.com/watch?v=VgzzHCukwpc&feature=youtu.be)
 * [raspberry pi projects](http://www.instructables.com/id/Raspberry-Pi-Projects/)
+* [Salesforce](http://www.salesforce.com/contents/sfdc/ungated-overview-demo.jsp?d=70130000000YuCy&internal=true)
 * [how browsers work](https://vimeo.com/44182484?ref=tw-share)
 * [automated testing with selenium web driver](http://www.seleniumhq.org/) with bdd software like [cucumber](https://cucumber.io/)
 * [bundling using tools like webpack](http://webpack.github.io/docs/tutorials/getting-started/)
@@ -32,6 +33,11 @@ Are you a veteran? Do you want to learn how to code? I've made this repo to help
 
 
 ## AO
+* [http://vettechtrek.com/](Vettechtrek.com)
+* [http://bunkerlabs.org/](bunkerlabs.org/)
+* [http://www.vetsintech.co/](http://www.vetsintech.co/)
+* [http://www.patriotbootcamp.org/](http://www.patriotbootcamp.org/)
+
 
 ### Oregon
 * [codeOregon](http://codeoregon.org/)
