@@ -10,6 +10,7 @@ Are you a veteran? Do you want to learn how to code? I've made this repo to help
 * [compilers](https://www.youtube.com/watch?v=CSZLNYF4Klo&index=2&list=PLhQjrBD2T381NKQHUCTezeyCYzbnN4GjC)
 * [libraries](https://www.youtube.com/watch?v=ED7QtgXDShY&index=4&list=PLhQjrBD2T381NKQHUCTezeyCYzbnN4GjC)
 * [javascript coursework](http://portlandcodeschool.github.io/jse/curriculum/)
+* [Explore and Master Chrome Dev tools](http://discover-devtools.codeschool.com/)
 
 ### AIT
 * [HarvardX Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info) or [this](http://cs50.tv/2015/fall/)
@@ -23,6 +24,7 @@ Are you a veteran? Do you want to learn how to code? I've made this repo to help
 * [ironnode debugger](https://github.com/s-a/iron-node)
 
 ### Ranger School
+* [Linux Academy](https://linuxacademy.com/)
 * [Amazon Web Services](http://aws.amazon.com/education/awseducate/) takes the hassle out of online enterprise. Watch this [video](https://www.youtube.com/watch?v=VgzzHCukwpc&feature=youtu.be)
 * [raspberry pi projects](http://www.instructables.com/id/Raspberry-Pi-Projects/)
 * [Salesforce](http://www.salesforce.com/contents/sfdc/ungated-overview-demo.jsp?d=70130000000YuCy&internal=true)
